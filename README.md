@@ -6,7 +6,7 @@
 
 <h3 align="center">Professional FullStack Developer Since 2017 Aug</h3>
 <h5 align="center">
-Excellent Communication Skills
+Excellent Communication Skills in English & Turkish
 <br>
 Love Providing Value To The Customer ASAP 
 <br> 
