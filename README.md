@@ -4,7 +4,7 @@
   <img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" width="100"/>
 </div>
 
-<h3 align="center">Professional FullStack Developer with Over 5 Years Of Experience</h3>
+<h3 align="center">Professional FullStack Developer Since 2017 Aug</h3>
   
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ibrahim-ozcan1/">
