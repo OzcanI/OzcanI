@@ -5,6 +5,7 @@
 </div>
 
 <h3 align="center">Professional FullStack Developer Since 2017 Aug</h3>
+<h5 align="center">Love Providing Value To The Customer ASAP <br> Fan of Failing Fast & Fixing Fast</h5>
   
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ibrahim-ozcan1/">
@@ -14,8 +15,11 @@
   <img src="https://img.shields.io/badge/-Twitter-white.svg?logo=twitter&style=popout">
   </a>
 </div>
-<hr/>
+
+<h3 align="center">What Do I Use The Most?</h3>
+
 <div id="badges2" align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=popout&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/-Typescript-white.svg?logo=typescript&style=popout">
 </div>
   
