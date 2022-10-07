@@ -10,7 +10,7 @@ Excellent Communication Skills in English & Turkish
 <br>
 Love Providing Value To The Customer ASAP 
 <br> 
-Fan of Failing Fast & Fixing Fast
+Fan of Failing Fast & Fixing Faster
 </h5>
   
 <div id="badges" align="center">
