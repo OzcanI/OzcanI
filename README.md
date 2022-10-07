@@ -5,7 +5,13 @@
 </div>
 
 <h3 align="center">Professional FullStack Developer Since 2017 Aug</h3>
-<h5 align="center">Love Providing Value To The Customer ASAP <br> Fan of Failing Fast & Fixing Fast</h5>
+<h5 align="center">
+Excellent Communication Skills
+<br>
+Love Providing Value To The Customer ASAP 
+<br> 
+Fan of Failing Fast & Fixing Fast
+</h5>
   
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ibrahim-ozcan1/">
