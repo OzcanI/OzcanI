@@ -35,7 +35,3 @@
   <img src="https://img.shields.io/badge/-React-white.svg?logo=react&style=popout">
   <img src="https://img.shields.io/badge/-Redux-764ABC.svg?logo=redux&style=popout">
 </div>
-  
-<div id="badges5" align="center">
-  <img src="https://img.shields.io/badge/-Jenkins-white.svg?logo=jenkins&style=popout">
-</div>
