@@ -11,6 +11,8 @@ Excellent Communication Skills in English & Turkish
 Love Providing Value To The Customer ASAP 
 <br> 
 Fan of Failing Fast & Fixing Faster
+<br> 
+Move Fast and Break Things Era is Not Dead Yet!
 </h5>
   
 <div id="badges" align="center">
